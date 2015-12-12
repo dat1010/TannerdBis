@@ -112,6 +112,7 @@ New releases are announced on the [dev blog](http://dev.ghost.org/tag/releases/)
 
 :saxophone::turtle:
 
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
 # Copyright & License
 
